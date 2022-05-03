@@ -1,5 +1,4 @@
 [workspace]
 members = [
-    "app",
-    "server"
+    "app"
 ]
