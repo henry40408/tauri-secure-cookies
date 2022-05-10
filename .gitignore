@@ -116,3 +116,6 @@ fabric.properties
 
 server/localhost.pem
 server/localhost-key.pem
+
+data
+!data/.keep
